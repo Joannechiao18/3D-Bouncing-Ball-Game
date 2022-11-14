@@ -13,5 +13,13 @@ This is a `3D bouncing ball game` side project using C++ and openGL.
 </p>
 
 ## Getting Started
-1. Install/Open `Visual Studio` and open project files 📂.
-2. Run the `.sln (solution)` file without debugging.
+### Usage 
+1. Clone this github repo. 
+```
+git clone https://github.com/Joannechiao18/3D-Bouncing-Ball-Game.git
+```
+2. Install/Open `Visual Studio` and open project files 📂.
+3. Run the `.sln (solution)` file without debugging.
+
+If you prefer to run the application in other C++ IDE, e.g. Dev-C++, then : 
+`cd` to `3d bouncing ball` and run `Source.cpp`.
