@@ -8,7 +8,7 @@ This is a `3D bouncing ball game` side project using C++ and openGL.
 ## Results
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/93377842/145711010-dd7e53dc-732b-454b-9662-89dc7f3c54b0.png" />
+    <img src="https://user-images.githubusercontent.com/84509949/201598365-ee95eb88-6793-420b-b721-0e01761664e2.jpg" />
   </a>
 </p>
 
