@@ -8,11 +8,11 @@ This is a `3D bouncing ball game` side project using C++ and openGL.
 ## Results
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/84509949/201598365-ee95eb88-6793-420b-b721-0e01761664e2.jpg" />
+    <img src="https://user-images.githubusercontent.com/84509949/201598365-ee95eb88-6793-420b-b721-0e01761664e2.jpg" width="350" height="300"/>
   </a>
 </p>
 
-## Getting Started
+## 🔨 Getting Started
 ### Usage 
 1. Clone this github repo. 
 ```
