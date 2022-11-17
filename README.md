@@ -13,7 +13,6 @@ This is a `3D bouncing ball game` side project using C++ and openGL.
 </p>
 
 ## 🔨 Getting Started
-### Usage 
 1. Clone this github repo. 
 ```
 git clone https://github.com/Joannechiao18/3D-Bouncing-Ball-Game.git
